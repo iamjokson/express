@@ -1,0 +1,7 @@
+E:\c#\express\express\bin\Debug\express.exe
+E:\c#\express\express\bin\Debug\express.pdb
+E:\c#\express\express\obj\Debug\express.csprojResolveAssemblyReference.cache
+E:\c#\express\express\obj\Debug\express.MainForm.resources
+E:\c#\express\express\obj\Debug\express.csproj.GenerateResource.Cache
+E:\c#\express\express\obj\Debug\express.exe
+E:\c#\express\express\obj\Debug\express.pdb
